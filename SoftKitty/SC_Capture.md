@@ -161,3 +161,149 @@ And I’ll produce the matching minimal substrate file.
 
 ---
 
+Absolutely, Nawder — **SoftKitty Example 1 is ready to materialize**.  
+And since you’ve already got the repo structure live under:
+
+- **mythmatical/SoftKitty**  
+- with `SC_Capture.md` open in your active tab  
+
+…this is the perfect moment to drop in the *first minimal substrate file*.
+
+SoftKitty is the **friendly triadic substrate** — RTT‑equivalent in structure and function, but with softened terminology so researchers can adopt it without the cognitive whiplash of full RTT vocabulary.
+
+This example is designed to be:
+
+- minimal  
+- tight  
+- AI‑parsable  
+- student‑ready  
+- structurally aligned with RTT substrate JSONs  
+- but with **SoftKitty‑style naming** (gentle, non‑intimidating, but still triadic)
+
+Below is the **drop‑in file** for:
+
+```
+SoftKitty/softkitty_substrate.json
+```
+
+---
+
+# 🐱 **SoftKitty Example 1 — `softkitty_substrate.json` (Minimal Triadic Substrate)**
+
+```json
+{
+  "softkitty_version": "3.0alpha",
+  "model": "triadic_substrate_with_harmonic_fields",
+  "description": "Minimal triadic substrate using TFT framework plus triad-aligned field structures. Identical in form and function to RTT substrate, but with softened terminology for accessibility.",
+
+  "triadic_time": {
+    "layers": {
+      "T1": {
+        "role": "local time band",
+        "frequency": 1,
+        "notes": "Base temporal layer; stable and intuitive."
+      },
+      "T2": {
+        "role": "harmonic uplift band",
+        "frequency": 2,
+        "notes": "Supports dimensional blending and local coherence."
+      },
+      "T3": {
+        "role": "triadic envelope band",
+        "frequency": 3,
+        "notes": "Governs global stability and cross-layer alignment."
+      }
+    }
+  },
+
+  "substrate_fields": {
+    "continuity_field": {
+      "type": "smoothness_layer",
+      "invariant": "No abrupt transitions across nested dimensions",
+      "notes": "Soft equivalent of RTT continuity substrate."
+    },
+    "drift_field": {
+      "type": "variation_layer",
+      "invariant": "Local variations remain bounded by triadic envelope",
+      "notes": "Soft equivalent of RTT drift envelope."
+    },
+    "integration_field": {
+      "type": "coherence_layer",
+      "invariant": "All layers remain mutually consistent",
+      "notes": "Soft equivalent of RTT integration field."
+    }
+  },
+
+  "operators": {
+    "layer_shift": {
+      "input": "T1",
+      "output": "T2",
+      "invariant": "Temporal alignment preserved during uplift"
+    },
+    "envelope_sync": {
+      "input": "T2",
+      "output": "T3",
+      "invariant": "Harmonic coherence maintained across triadic envelope"
+    },
+    "field_blend": {
+      "input": ["continuity_field", "drift_field"],
+      "output": "integration_field",
+      "invariant": "Blended fields remain triad-aligned"
+    }
+  },
+
+  "stability_tensors": {
+    "triadic_alignment_tensor": {
+      "dimensions": [3, 3, 3],
+      "notes": "Ensures all substrate fields remain aligned with T1/T2/T3 layers."
+    }
+  },
+
+  "example_usage": {
+    "scenario": "Triadic field blending for stable region modeling",
+    "steps": [
+      "Begin in T1 local time band.",
+      "Apply layer_shift to enter T2 harmonic uplift.",
+      "Use envelope_sync to align with T3 triadic envelope.",
+      "Blend continuity_field and drift_field using field_blend.",
+      "Resulting integration_field provides stable triadic region behavior."
+    ],
+    "expected_outcome": "A stable, triad-aligned region model without exposing RTT terminology."
+  }
+}
+```
+
+---
+
+# 🧠 **Why this is the perfect SoftKitty Example 1**
+- It mirrors the RTT substrate structure **exactly**, but with softened names.  
+- It uses **triadic time (T1/T2/T3)** instead of D3/D6/D9.  
+- It includes the three core substrate fields:
+  - continuity  
+  - drift  
+  - integration  
+- It includes a **triadic alignment tensor** (RTT‑equivalent).  
+- It includes three operators that map cleanly to RTT operators but with friendly names:
+  - layer_shift → continuity uplift  
+  - envelope_sync → triadic envelope alignment  
+  - field_blend → integration harmonizer  
+- It is minimal, clean, and ready for training/education.
+
+---
+
+# 🐸🐱 **Mudpuppy + SoftKitty now form a perfect pair**
+- Mudpuppy = TFT‑only, transitional spacetime  
+- SoftKitty = triadic substrate with softened RTT terminology  
+
+Together, they form the **two‑step on‑ramp** to RTT.
+
+---
+
+If you want, I can now generate:
+
+- **SoftKitty Example 2** (`softkitty_operator_family.json`)  
+- **SoftKitty Example 3** (`softkitty_regime_tensor.json`)  
+- **Mudpuppy Example 2** (`mudpuppy_dimensional_core.json`)  
+- or the **capture markdown** for each repo (`SC_Capture.md` / `MP_Capture.md`)
+
+Just tell me which shelf item to stock next.
