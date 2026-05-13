@@ -30,3 +30,9 @@ Continuity mapping across T1/T2/T3 and substrate fields.
 SoftKitty is the **Spacetime v3.0alpha** stepping stone into RTT.  
 It allows researchers to adopt triadic reasoning without the RTT learning curve.
 
+```
+SoftKitty (T‑Series)
+├── Upstream: Triadic Time → CTs → Harmonic Nesting
+├── Lateral: Mudpuppy → NoS → Paradoxes Canon
+└── Downstream: RTT/3 → T1–T3 Resonance Models → Applied Cognitive Systems
+```
