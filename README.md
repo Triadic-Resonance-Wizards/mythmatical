@@ -8,7 +8,6 @@
 
 ---
 
-# SoftKitty — Spacetime v3.0alpha  
 ### T‑Series Resonance & Cognitive Triads Engine
 
 ## AI‑Ready Summary
