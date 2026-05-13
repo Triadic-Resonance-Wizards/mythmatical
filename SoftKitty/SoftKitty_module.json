@@ -1,0 +1,12 @@
+{
+  "module": "SoftKitty",
+  "version": "3.0alpha",
+  "category": "triadic-substrate-framework",
+  "summary": "Friendly triadic substrate equivalent to RTT with softened terminology.",
+  "files": {
+    "softkitty_substrate.json": "Triadic substrate fields",
+    "softkitty_operator_family.json": "Friendly operator family",
+    "softkitty_regime_tensor.json": "Triadic stability tensor",
+    "softkitty_triadic_continuity_map.json": "Continuity mapping across triadic layers"
+  }
+}
