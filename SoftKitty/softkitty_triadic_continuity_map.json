@@ -1,0 +1,43 @@
+{
+  "softkitty_version": "3.0alpha",
+  "model": "triadic_continuity_map_minimal",
+  "description": "Minimal triadic continuity map for SoftKitty. RTT-equivalent continuity mapping with softened terminology. Ensures smooth transitions across T1/T2/T3 and substrate fields.",
+
+  "continuity_map": {
+    "time_layers": ["T1", "T2", "T3"],
+    "fields": ["continuity_field", "drift_field", "integration_field"],
+
+    "mapping_rules": {
+      "T1_to_T2": {
+        "operator": "layer_shift",
+        "invariant": "No discontinuities introduced during uplift"
+      },
+      "T2_to_T3": {
+        "operator": "envelope_sync",
+        "invariant": "Harmonic coherence preserved"
+      },
+      "field_blending": {
+        "operator": "field_blend",
+        "invariant": "Continuity maintained across substrate fields"
+      }
+    }
+  },
+
+  "invariants": {
+    "smoothness_across_layers": true,
+    "field_alignment": true,
+    "triadic_consistency": true
+  },
+
+  "example_usage": {
+    "scenario": "Mapping continuity across triadic layers",
+    "steps": [
+      "Start in T1 with continuity_field active.",
+      "Apply layer_shift to enter T2.",
+      "Use envelope_sync to align with T3.",
+      "Blend continuity_field and drift_field using field_blend.",
+      "Verify smoothness using continuity_map invariants."
+    ],
+    "expected_outcome": "A triad-aligned continuity map ensuring smooth transitions across all layers."
+  }
+}
