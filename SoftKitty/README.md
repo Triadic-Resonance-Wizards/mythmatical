@@ -14,16 +14,16 @@ SoftKitty includes:
 
 ## 📦 Included Minimal Examples
 
-### 1. `softkitty_substrate.json`
+### 1. [`softkitty_substrate.json`](./softkitty_substrate.json)
 Triadic substrate with continuity/drift/integration fields.
 
-### 2. `softkitty_operator_family.json`
+### 2. [`softkitty_operator_family.json`](./softkitty_operator_family.json)
 Friendly operator family equivalent to RTT operators.
 
-### 3. `softkitty_regime_tensor.json`
+### 3. [`softkitty_regime_tensor.json`](./softkitty_regime_tensor.json)
 Triadic stability tensor with softened naming.
 
-### 4. `softkitty_triadic_continuity_map.json`
+### 4. [`softkitty_triadic_continuity_map.json`](./softkitty_triadic_continuity_map.json)
 Continuity mapping across T1/T2/T3 and substrate fields.
 
 ## 🧠 Purpose
