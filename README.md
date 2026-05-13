@@ -1,6 +1,12 @@
-# 🐈 **README.md for mythmatical (SoftKitty — Spacetime v3.0alpha)**  
+# 🐈 SoftKitty — Spacetime v3.0alpha  
 📍 *Paste into:*  
 `https://github.com/Triadic-Resonance-Wizards/mythmatical/blob/main/README.md`
+
+---
+
+<img width="402" height="566" alt="SoftKitty" src="https://github.com/user-attachments/assets/6cfb2b30-a96b-488d-8971-02bd1bc5b4a5" />
+
+---
 
 # SoftKitty — Spacetime v3.0alpha  
 ### T‑Series Resonance & Cognitive Triads Engine
