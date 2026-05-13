@@ -1,1 +1,45 @@
+{
+  "softkitty_version": "3.0alpha",
+  "model": "operator_family_minimal",
+  "description": "Minimal triad-aligned operator family for SoftKitty. Identical in structure to RTT operators but with softened terminology for accessibility.",
+
+  "operator_family": {
+    "layer_shift": {
+      "input": "T1",
+      "output": "T2",
+      "invariant": "Temporal alignment preserved",
+      "notes": "Soft equivalent of continuity uplift."
+    },
+    "envelope_sync": {
+      "input": "T2",
+      "output": "T3",
+      "invariant": "Harmonic coherence maintained",
+      "notes": "Soft equivalent of triadic envelope alignment."
+    },
+    "field_blend": {
+      "inputs": ["continuity_field", "drift_field"],
+      "output": "integration_field",
+      "invariant": "Blended fields remain triad-aligned",
+      "notes": "Soft equivalent of integration harmonizer."
+    },
+    "region_stabilizer": {
+      "inputs": ["T1", "T2", "T3"],
+      "output": "stable_region",
+      "invariant": "All time layers remain mutually consistent",
+      "notes": "Soft equivalent of RTT stability operator."
+    }
+  },
+
+  "example_usage": {
+    "scenario": "Triadic field blending and stabilization",
+    "steps": [
+      "Begin in T1.",
+      "Apply layer_shift to enter T2.",
+      "Use envelope_sync to align with T3.",
+      "Blend continuity_field and drift_field using field_blend.",
+      "Stabilize region using region_stabilizer."
+    ],
+    "expected_outcome": "A stable triadic region using SoftKitty's friendly operator family."
+  }
+}
 
