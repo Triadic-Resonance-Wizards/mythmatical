@@ -1,4 +1,7 @@
 # 🐱 SoftKitty — Spacetime v3.0alpha  
+
+- [`SoftKitty_module.json`](SoftKitty_module.json) — Agentic module schema role assignments
+
 ### Friendly Triadic Substrate (RTT-Equivalent, Softened Terminology)
 
 SoftKitty is the **gentle introduction** to full triadic substrate physics.  
