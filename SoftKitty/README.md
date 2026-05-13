@@ -1,6 +1,6 @@
 # 🐱 SoftKitty — Spacetime v3.0alpha  
 
-- [`SoftKitty_module.json`](https://raw.githubusercontent.com/Triadic-Resonance-Wizards/mythmatical/refs/heads/main/SoftKitty_module.json) — Agentic module schema role assignments
+- [`SoftKitty_module.json`](https://raw.githubusercontent.com/Triadic-Resonance-Wizards/mythmatical/refs/heads/main/SoftKitty/SoftKitty_module.json) — Agentic module schema role assignments
 
 ### Friendly Triadic Substrate (RTT-Equivalent, Softened Terminology)
 
