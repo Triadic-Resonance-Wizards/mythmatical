@@ -57,116 +57,123 @@
 
 <style>
 /* ============================================================
-   NAWDERIAN COSMIC TRIADIC THEME — MOBILE FIRST
+   SOFTKITTY — T‑SERIES RESONANCE & COGNITIVE TRIADS THEME
+   MOBILE FIRST — WARM HARMONIC VARIANT
    ============================================================ */
 
-  :root {
-  --bg-main: #0d0f12;
-  --bg-nav: #15181d;
-  --border-subtle: #2a2f38;
-  --text-main: #dfe7f3;
-  --text-muted: #9aa4b2;
-  --accent-rtt: #8ab4ff;
-  --radius: 10px;
-  --shadow: 0 0 20px rgba(0,0,0,0.4);
-  --gradient: linear-gradient(135deg, #1e2530, #0d0f12);
-  --triadic: linear-gradient(135deg, #8ab4ff, #c792ea, #f6c177);
-  --rtt-accent-low:  #7aa2f7;   /* cool / entry */
-  --rtt-accent-mid:  #9ece6a;   /* balance */
-  --rtt-accent-high: #f7768e;   /* emphasis */
-}
+:root {
+  --bg-main: #0e0b12;
+  --bg-panel: #16131c;
+  --bg-nav: #1a1622;
+  --border-subtle: #2d2736;
 
-.protocol a,
-.equation a {
-  border-bottom-style: dotted;
+  --text-main: #f0eaff;
+  --text-muted: #b7adc8;
+
+  /* SoftKitty signature resonance accents (T1 → T3) */
+  --t1: #c792ea;   /* entry resonance */
+  --t2: #f6c177;   /* harmonic balance */
+  --t3: #ff9ecb;   /* resonance bloom */
+
+  --radius: 12px;
+  --shadow: 0 0 22px rgba(0,0,0,0.45);
+
+  /* Resonance gradient (soft → warm → harmonic) */
+  --resonance: linear-gradient(135deg, #c792ea, #f6c177, #ff9ecb);
 }
 
 /* Base link style */
 a {
-  color: var(--rtt-accent-mid);
+  color: var(--t2);
   text-decoration: none;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
-  transition: color 0.2s ease, border-color 0.2s ease;
+  border-bottom: 1px solid rgba(255,255,255,0.25);
+  transition: color 0.25s ease, border-color 0.25s ease;
 }
 
-/* Hover / focus */
 a:hover,
 a:focus {
-  color: var(--rtt-accent-high);
-  border-bottom-color: var(--rtt-accent-high);
+  color: var(--t3);
+  border-bottom-color: var(--t3);
 }
 
-/* Visited links */
 a:visited {
-  color: var(--rtt-accent-low);
+  color: var(--t1);
 }
 
-  /* Base layout */
-  html { scroll-behavior: smooth; }
-  body {
+/* Layout */
+html { scroll-behavior: smooth; }
+
+body {
   margin: 0;
   padding: 0;
   background: var(--bg-main);
   color: var(--text-main);
   font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-  line-height: 1.65;
+  line-height: 1.7;
   font-size: 17px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  }
+}
 
-  /* Headings */
-  h1, h2, h3, h4 {
+/* Headings */
+h1, h2, h3, h4 {
   font-weight: 700;
   margin-top: 1.8em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.6em;
   line-height: 1.2;
-  background: var(--triadic);
+  background: var(--resonance);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  }
+}
 
-  /* Paragraphs and lists */
-  p, ul, ol {
+/* Paragraphs and lists */
+p, ul, ol {
   padding: 0 1em;
-  margin: 0 0 1.1em 0;
-  color: #dfe7f3;
-  }
+  margin: 0 0 1.2em 0;
+  color: var(--text-main);
+}
 
-  /* Code/pre */
-  pre, code {
+/* Code blocks */
+pre, code {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
-  background: rgba(255,255,255,0.02);
-  padding: 0.4em 0.6em;
+  background: rgba(255,255,255,0.05);
+  padding: 0.45em 0.7em;
   border-radius: 6px;
-  color: #cfe8ff;
-  }
-       
-  /* Context Block */
-  .context-block {
-    font-family: monospace;
-    font-size: 0.95rem;
-    line-height: 1.4;
-    margin: 0.5rem 0 1rem 0;
-  }
-       
-  /* Context Label */
-  .context-label {
-    color: #ff9800; /* orange */
-    font-weight: bold;
-    margin-right: 0.25rem;
-  }
-       
-  /* Context Value */
-  .context-value {
-    color: #ffffff; /* white */
-  }
+  color: #ffeaff;
+}
 
+pre {
+  background: #120f18;
+  padding: 1rem;
+  overflow-x: auto;
+  border-left: 2px solid var(--t1);
+}
+
+/* Session Context */
+.session-context {
+  background: var(--bg-panel);
+  padding: 1rem 1.2rem;
+  margin: 1rem;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border-subtle);
+}
+
+.context-label {
+  color: var(--t3);
+  font-weight: bold;
+  margin-right: 0.25rem;
+}
+
+.context-value {
+  color: var(--text-main);
+}
+
+/* Navigation */
 nav {
   width: 260px;
   float: left;
   background: var(--bg-nav);
-  margin-left: 0;
   padding: 1.2rem;
   overflow-y: auto;
   border-right: 1px solid var(--border-subtle);
@@ -174,7 +181,7 @@ nav {
 
 nav h2 {
   font-size: 0.9rem;
-  color: var(--accent-rtt);
+  color: var(--t1);
   margin-top: 1.2rem;
   margin-bottom: 0.4rem;
   letter-spacing: 0.04em;
@@ -183,7 +190,6 @@ nav h2 {
 nav a {
   display: block;
   color: var(--text-muted);
-  text-decoration: none;
   padding: 0.35rem 0;
   font-size: 0.9rem;
 }
@@ -192,6 +198,7 @@ nav a:hover {
   color: var(--text-main);
 }
 
+/* Main content */
 main {
   flex: 1;
   padding: 2.5rem;
@@ -199,19 +206,8 @@ main {
 }
 
 main h1, main h2, main h3 {
-  color: var(--accent-rtt);
+  color: var(--t2);
   font-weight: 500;
-}
-
-pre {
-  background: #0b0d12;
-  padding: 1rem;
-  overflow-x: auto;
-  border-left: 2px solid var(--accent-rtt);
-}
-
-code {
-  color: var(--text-main);
 }
 </style>
 
