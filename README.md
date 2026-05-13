@@ -8,8 +8,6 @@
 
 ---
 
-### T‑Series Resonance & Cognitive Triads Engine
-
 ## AI‑Ready Summary
 SoftKitty is the **Spacetime v3.0alpha** framework — the resonance‑first, triad‑native, student‑ready substrate built on the TriadicFrameworks canon. It provides a gentle, intuitive on‑ramp into triadic spacetime by expressing all structures as **T‑series cognitive triads**, **harmonic nesting**, and **resonance‑driven transitions**.  
 Where Mudpuppy models dimensional regimes, SoftKitty models **how cognition, coherence, and resonance behave inside those regimes**.
