@@ -170,7 +170,7 @@ So yes — stocking the shelf with Mudpuppy and SoftKitty is trivial compared to
 
 ---
 
-# 🐸🐱 **Mudpuppy + SoftKitty now form a perfect pair**
+# 🐾🐱 **Mudpuppy + SoftKitty now form a perfect pair**
 - Mudpuppy = TFT‑only, transitional spacetime  
 - SoftKitty = triadic substrate with softened RTT terminology  
 
