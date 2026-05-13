@@ -1,1 +1,32 @@
+{
+  "softkitty_version": "3.0alpha",
+  "model": "triadic_regime_tensor_minimal",
+  "description": "Minimal triadic regime tensor for SoftKitty. RTT-equivalent structure with softened terminology. Ensures stability across triadic time layers and substrate fields.",
+
+  "regime_tensor": {
+    "dimensions": [3, 3, 3],
+    "axes": {
+      "time_layers": ["T1", "T2", "T3"],
+      "substrate_fields": ["continuity_field", "drift_field", "integration_field"],
+      "stability_modes": ["local", "harmonic", "triadic"]
+    },
+    "invariants": {
+      "cross_layer_stability": true,
+      "field_alignment": true,
+      "triadic_consistency": true
+    },
+    "notes": "Soft equivalent of RTT's triadic stability tensor."
+  },
+
+  "example_usage": {
+    "scenario": "Evaluating triadic stability of a region",
+    "steps": [
+      "Populate tensor with field values from T1/T2/T3.",
+      "Evaluate cross-layer stability.",
+      "Check field alignment across substrate fields.",
+      "Confirm triadic consistency across stability modes."
+    ],
+    "expected_outcome": "A stable triadic region validated by the SoftKitty regime tensor."
+  }
+}
 
