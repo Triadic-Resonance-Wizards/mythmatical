@@ -943,3 +943,382 @@ STRUCTURE → RESONANCE → FULL TRIADIC SPACETIME
 
 ---
 
+# 🟦 **TRIADICFRAMEWORKS — SPACETIME STUDENT WORKBOOK (20 PAGES)**  
+### *Mudpuppy (v2.0beta) + SoftKitty (v3.0alpha)*  
+### *PDF‑ready, C64‑style, minimal, student‑friendly*
+
+---
+
+# ============================================================
+# PAGE 1 — COVER
+# ============================================================
+
+```
+============================================================
+                    TRIADICFRAMEWORKS
+============================================================
+                SPACETIME STUDENT WORKBOOK
+      Mudpuppy (v2.0beta) • SoftKitty (v3.0alpha)
+============================================================
+```
+
+---
+
+# ============================================================
+# PAGE 2 — HOW TO USE THIS WORKBOOK
+# ============================================================
+
+```
+This workbook teaches the basics of triadic spacetime using
+two engines:
+
+Mudpuppy — dimensional regimes (D1 → D4)
+SoftKitty — resonance & cognitive triads (T1 → T3)
+
+Each page is short, simple, and hands‑on.
+Use a pencil. Draw diagrams. Ask an AI for help.
+```
+
+---
+
+# ============================================================
+# PAGE 3 — MUDPUPPY: SHORT HISTORY
+# ============================================================
+
+```
+Mudpuppy began as the first stable model of dimensional
+regimes. It explains why systems behave differently in
+different dimensional "states" (D1–D4).
+
+It is the v2 bridge into triadic spacetime.
+```
+
+---
+
+# ============================================================
+# PAGE 4 — MUDPUPPY: THE D‑SERIES LADDER
+# ============================================================
+
+```
+D1 — Entry Regime
+D2 — Transition Layer
+D3 — Coherence Layer
+D4 — Harmonic Apex
+
+Draw the ladder:
+
+      +---------+
+      |   D4    |
+      +---------+
+           ^
+           |
+      +---------+
+      |   D3    |
+      +---------+
+           ^
+           |
+      +---------+
+      |   D2    |
+      +---------+
+           ^
+           |
+      +---------+
+      |   D1    |
+      +---------+
+```
+
+---
+
+# ============================================================
+# PAGE 5 — WORKSHEET: IDENTIFY THE REGIME
+# ============================================================
+
+```
+For each system, choose D1, D2, D3, or D4:
+
+1. A calm pond: ______
+2. A storm forming: ______
+3. A stable orbit: ______
+4. A laser cavity: ______
+5. A chaotic crowd: ______
+```
+
+---
+
+# ============================================================
+# PAGE 6 — MUDPUPPY: TRANSITION LOOP
+# ============================================================
+
+```
+[D1] → [D2] → [D3] → [D4]
+  ^                     |
+  |---------------------|
+
+Explain what happens at each arrow:
+D1 → D2: ____________________________
+D2 → D3: ____________________________
+D3 → D4: ____________________________
+D4 → D1: ____________________________
+```
+
+---
+
+# ============================================================
+# PAGE 7 — MUDPUPPY: BUILD YOUR OWN EXAMPLE
+# ============================================================
+
+```
+Create a real‑world example of a D‑series transition.
+
+System: _______________________________
+
+D1: __________________________________
+D2: __________________________________
+D3: __________________________________
+D4: __________________________________
+```
+
+---
+
+# ============================================================
+# PAGE 8 — SOFTKITTY: SHORT HISTORY
+# ============================================================
+
+```
+SoftKitty models resonance, cognition, and harmonic flow.
+It explains why triads appear everywhere.
+
+It is the v3 bridge into RTT/3.
+```
+
+---
+
+# ============================================================
+# PAGE 9 — SOFTKITTY: THE T‑SERIES NESTING
+# ============================================================
+
+```
+T1 — Entry Resonance
+T2 — Harmonic Balance
+T3 — Resonance Bloom
+
+Draw the nesting:
+
+      +---------+
+      |   T3    |
+      +---------+
+           ^
+           |
+      +---------+
+      |   T2    |
+      +---------+
+           ^
+           |
+      +---------+
+      |   T1    |
+      +---------+
+```
+
+---
+
+# ============================================================
+# PAGE 10 — WORKSHEET: TRIAD IDENTIFICATION
+# ============================================================
+
+```
+For each behavior, choose T1, T2, or T3:
+
+1. First reaction to a surprise: ______
+2. Settling into a rhythm: ______
+3. Full creative flow: ______
+4. Adjusting to feedback: ______
+5. Deep insight moment: ______
+```
+
+---
+
+# ============================================================
+# PAGE 11 — SOFTKITTY: HARMONIC LOOP
+# ============================================================
+
+```
+(T1) → (T2) → (T3)
+  ^               |
+  |---------------|
+
+Explain each arrow:
+T1 → T2: ____________________________
+T2 → T3: ____________________________
+T3 → T1: ____________________________
+```
+
+---
+
+# ============================================================
+# PAGE 12 — SOFTKITTY: COGNITIVE TRIAD
+# ============================================================
+
+```
+       +-----+
+       |  A  |  Awareness
+       +-----+
+       /     \
+      /       \
+ +-----+     +-----+
+ |  B  |     |  C  |
+ +-----+     +-----+
+Behavior     Context
+
+Fill in an example:
+A: ____________________________
+B: ____________________________
+C: ____________________________
+```
+
+---
+
+# ============================================================
+# PAGE 13 — COMPARISON: D‑SERIES VS T‑SERIES
+# ============================================================
+
+```
+D‑Series (Mudpuppy)      T‑Series (SoftKitty)
+---------------------    ---------------------
+Structure               Resonance
+Regimes                 Triads
+Transitions             Loops
+Dimensional             Cognitive
+```
+
+Fill in one example of each:
+```
+D‑Series example: _______________________
+T‑Series example: _______________________
+```
+
+---
+
+# ============================================================
+# PAGE 14 — TRIAD EXPLORER PROMPTS (AI‑READY)
+# ============================================================
+
+```
+"Generate a D1 → D4 example with a simple diagram."
+
+"Identify the triad layer (T1/T2/T3) for this behavior."
+
+"Create a new dimensional regime example under 120 words."
+
+"Explain a resonance loop using a real‑world scenario."
+
+"Compare D2 and T2 using minimal language."
+```
+
+---
+
+# ============================================================
+# PAGE 15 — BUILD YOUR OWN SYSTEM (D‑SERIES)
+# ============================================================
+
+```
+System Name: ___________________________
+
+Describe it in each regime:
+
+D1: ____________________________________
+D2: ____________________________________
+D3: ____________________________________
+D4: ____________________________________
+```
+
+---
+
+# ============================================================
+# PAGE 16 — BUILD YOUR OWN SYSTEM (T‑SERIES)
+# ============================================================
+
+```
+System Name: ___________________________
+
+Describe it in each triad:
+
+T1: ____________________________________
+T2: ____________________________________
+T3: ____________________________________
+```
+
+---
+
+# ============================================================
+# PAGE 17 — v2 → v3 → RTT/3 BRIDGE
+# ============================================================
+
+```
+Mudpuppy (v2.0beta)
+  - dimensional regimes
+  - structure-first
+
+      ↓
+
+SoftKitty (v3.0alpha)
+  - resonance & cognition
+  - triad-first
+
+      ↓
+
+RTT/3
+  - full triadic spacetime
+  - unified operator engine
+```
+
+---
+
+# ============================================================
+# PAGE 18 — POSTER (ASCII)
+# ============================================================
+
+```
+============================================================
+                TRIADIC SPACETIME — OVERVIEW
+============================================================
+
+MUDPUPPY (D‑Series)
+D1 → D2 → D3 → D4
+
+SOFTKITTY (T‑Series)
+T1 → T2 → T3
+
+RTT/3
+Structure + Resonance + Triadic Time
+============================================================
+```
+
+---
+
+# ============================================================
+# PAGE 19 — GLOSSARY
+# ============================================================
+
+```
+Regime — a dimensional state (D1–D4)
+Triad — a resonance structure (T1–T3)
+Loop — a repeating harmonic cycle
+Transition — movement between regimes or triads
+Coherence — stable alignment across layers
+Harmonic — resonance at peak stability
+```
+
+---
+
+# ============================================================
+# PAGE 20 — CREDITS
+# ============================================================
+
+```
+TriadicFrameworks
+Open Educational Use Permitted
+www.triadicframeworks.org
+```
+
+---
+
