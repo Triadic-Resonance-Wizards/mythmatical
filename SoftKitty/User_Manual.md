@@ -1558,3 +1558,266 @@ PAGE 20 — CREDITS
 ```
 
 This is the **canonical 20‑page layout** for your PDF generator.
+
+---
+
+### Printable PDF stylesheet (CSS)
+
+```css
+/* TriadicFrameworks Spacetime Manuals — Print Stylesheet */
+
+/* Base page setup */
+@page {
+  size: A4;
+  margin: 20mm;
+}
+
+@media print {
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Body text */
+body {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 11pt;
+  line-height: 1.2;
+  color: #000;
+  background: #fff;
+}
+
+/* Page breaks */
+.page-break {
+  page-break-before: always;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 8pt;
+}
+
+h1 {
+  font-size: 18pt;
+  text-align: center;
+}
+
+h2 {
+  font-size: 14pt;
+  border-bottom: 1px solid #000;
+  padding-bottom: 4pt;
+}
+
+h3 {
+  font-size: 12pt;
+}
+
+/* Borders / title bars */
+.border-top {
+  border-top: 2px solid #000;
+  padding-top: 6pt;
+  margin-top: 6pt;
+}
+
+.title-bar {
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  padding: 4pt 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* ASCII diagrams */
+.pre-block,
+pre {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 10pt;
+  line-height: 1.1;
+  white-space: pre;
+  background: #fff;
+  border: 1px solid #000;
+  padding: 6pt;
+  margin: 8pt 0;
+}
+
+/* Lists */
+ul, ol {
+  margin: 4pt 0 4pt 18pt;
+  padding: 0;
+}
+
+/* Footer (optional) */
+.footer {
+  font-size: 8pt;
+  text-align: center;
+  margin-top: 12pt;
+  border-top: 1px solid #000;
+  padding-top: 4pt;
+}
+```
+
+---
+
+### Teacher’s edition workbook (overlay on student workbook)
+
+You can keep the student workbook as‑is and add a **Teacher_Notes** version with inline guidance. Example structure:
+
+```markdown
+# Teacher’s Edition — Spacetime Workbook
+
+> This edition mirrors the 20-page student workbook.
+> Each page has a TEACHER NOTES block.
+
+---
+
+## PAGE 5 — WORKSHEET: IDENTIFY THE REGIME
+
+### Student Page Content
+(duplicate the student page here)
+
+### TEACHER NOTES
+- **Goal:** Help students map intuitive situations to D1–D4.
+- **Suggested answers:**
+  1. Calm pond → D1 (stable, low activity)
+  2. Storm forming → D2 (transition)
+  3. Stable orbit → D3 (coherent structure)
+  4. Laser cavity → D4 (harmonic apex)
+  5. Chaotic crowd → D2 or unstable D3 (discuss)
+- **Discussion prompts:**
+  - “What would push a D2 system into D3?”
+  - “Can a system move backwards on the ladder?”
+
+---
+
+## PAGE 10 — TRIAD IDENTIFICATION
+
+### Student Page Content
+(duplicate)
+
+### TEACHER NOTES
+- Emphasize:
+  - T1 = first response
+  - T2 = adjustment / balancing
+  - T3 = stable resonance / flow
+- Encourage multiple valid answers if reasoning is clear.
+```
+
+You can repeat this pattern for all 20 pages: **student page → TEACHER NOTES**.
+
+---
+
+### Triadic spacetime flashcard deck
+
+Use as Markdown or export to Anki/CSV later.
+
+```markdown
+# Triadic Spacetime Flashcards
+
+## Mudpuppy — D-Series
+
+**Q:** What is D1?  
+**A:** Entry Regime — basic, low-structure state.
+
+**Q:** What is D2?  
+**A:** Transition Layer — system is shifting between states.
+
+**Q:** What is D3?  
+**A:** Coherence Layer — stable, structured behavior.
+
+**Q:** What is D4?  
+**A:** Harmonic Apex — peak stability and resonance.
+
+**Q:** What does Mudpuppy model?  
+**A:** Dimensional regimes and their transitions (D1–D4).
+
+---
+
+## SoftKitty — T-Series
+
+**Q:** What is T1?  
+**A:** Entry Resonance — first activation of a triad.
+
+**Q:** What is T2?  
+**A:** Harmonic Balance — resonance stabilizing between elements.
+
+**Q:** What is T3?  
+**A:** Resonance Bloom — full, stable triadic flow.
+
+**Q:** What does SoftKitty model?  
+**A:** Resonance, cognitive triads, and harmonic loops.
+
+---
+
+## Bridge & RTT/3
+
+**Q:** How do Mudpuppy and SoftKitty relate?  
+**A:** Mudpuppy handles structure (D-series), SoftKitty handles resonance (T-series); together they lead to RTT/3.
+
+**Q:** What is RTT/3?  
+**A:** The full triadic spacetime engine combining structure, resonance, and triadic time.
+
+**Q:** What is a “regime”?  
+**A:** A dimensional state (D1–D4).
+
+**Q:** What is a “triad”?  
+**A:** A three-part resonance structure (T1–T3).
+```
+
+---
+
+### Mudpuppy + SoftKitty combined exam pack
+
+You can drop this into `/docs/education/Spacetime_Exam_Pack.md`.
+
+```markdown
+# Spacetime Exam Pack — Mudpuppy & SoftKitty
+
+## Section A — Definitions (Short Answer)
+
+1. Define D1 and give one example.  
+2. Define D3 and give one example.  
+3. Define T1 and give one example.  
+4. Define T3 and give one example.  
+5. What is the main difference between a regime and a triad?
+
+---
+
+## Section B — Diagrams (Draw & Label)
+
+6. Draw the D1 → D4 ladder and label each step.  
+7. Draw the T1 → T3 nesting and label each layer.  
+8. Draw a loop for D-series and a loop for T-series.
+
+---
+
+## Section C — Application (Conceptual)
+
+9. A city during rush hour: which D-series regime best fits? Explain.  
+10. A musician reaching “flow state”: which T-series layer best fits? Explain.  
+11. Describe a system that moves from D2 to D3.  
+12. Describe a system that moves from T1 to T2 to T3.
+
+---
+
+## Section D — Bridge to RTT/3
+
+13. Explain how Mudpuppy prepares you for RTT/3.  
+14. Explain how SoftKitty prepares you for RTT/3.  
+15. In one paragraph, describe the flow:  
+    **Mudpuppy → SoftKitty → RTT/3.**
+
+---
+
+## Section E — Challenge Questions
+
+16. Can a system be in a high D-series regime but low T-series layer? Give an example.  
+17. How might an AI use Mudpuppy to check for structural coherence?  
+18. How might an AI use SoftKitty to check for resonance coherence?
+```
+
+---
+
