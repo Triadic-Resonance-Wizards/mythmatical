@@ -699,3 +699,247 @@ RTT/3
 
 ---
 
+# 🟦 **1. FULL PDF TYPESETTING GUIDE**  
+### *For Mudpuppy, SoftKitty, or the combined booklet*
+
+```
+============================================================
+PDF TYPESETTING GUIDE — TRIADICFRAMEWORKS USER MANUALS
+============================================================
+
+PAGE SIZE
+---------
+Use US Letter (8.5 x 11) or A4.
+Margins: 0.75" on all sides.
+Header/Footer: 0.4".
+
+FONTS
+-----
+Primary: Monospace (Courier, IBM Plex Mono, or C64 Pro Mono)
+Size: 11pt body, 14pt section titles, 18pt cover title.
+
+LINE SPACING
+------------
+1.2x for body text.
+1.0x for ASCII diagrams.
+1.4x for section titles.
+
+COLORS
+------
+Black text on white background for print.
+Optional: Light gray (#e6e6e6) background for title bars.
+
+PAGE BREAKS
+-----------
+Insert a page break before:
+- Each major section
+- Each module (Mudpuppy / SoftKitty)
+- The Learning Path
+- The Poster
+
+TITLE BARS
+----------
+Use ASCII title bars (provided below).
+Keep them at the top of each section.
+
+BORDERS
+-------
+Use a top border on every page.
+Optional bottom border for retro feel.
+
+ASCII DIAGRAMS
+--------------
+Use monospace font.
+Do not scale.
+Do not wrap lines.
+Center diagrams on the page.
+
+IMAGES
+------
+SVGs should be rasterized to PNG at 1200px width for PDF.
+
+CREDITS PAGE
+------------
+Place at the end:
+"TriadicFrameworks — Open Educational Use Permitted"
+
+============================================================
+```
+
+---
+
+# 🟩 **2. ASCII ART GLYPHS (Mudpuppy + SoftKitty)**  
+### *Pure ASCII, printable, PDF‑safe*
+
+## 🐾 Mudpuppy Glyph (Dimensional Regime Engine)
+
+```
+        .-----------------------.
+       /   \               /    \
+      /     \             /      \
+     |   D   \           /   D    |
+     |    \   \         /   /     |
+      \    \   \       /   /     /
+       \    \   \     /   /     /
+        '-----------------------'
+```
+
+Or the **geometric D‑series sigil**:
+
+```
+      +-------------------+
+      |        /\         |
+      |       /  \        |
+      |      /____\       |
+      |      \    /       |
+      |       \  /        |
+      |        \/         |
+      +-------------------+
+```
+
+---
+
+## 🐈 SoftKitty Glyph (Resonance & Cognitive Triads)
+
+```
+        .------(T3)------.
+       /        |         \
+      /      (T2)          \
+     |         |             |
+      \      (T1)           /
+       \        |          /
+        '-----------------'
+```
+
+Or the **harmonic triad sigil**:
+
+```
+        (  )   (  )
+          \     /
+           \   /
+            ( )
+```
+
+---
+
+# 🟧 **3. RETRO C64‑STYLE TABLE OF CONTENTS**
+
+```
+============================================================
+                 TABLE OF CONTENTS (C64 STYLE)
+============================================================
+
+01  COVER PAGE
+02  INTRODUCTION
+03  HOW TO USE THIS MANUAL
+
+-- MUDPUPPY (SPACETIME v2.0beta) ----------------------------
+04  SHORT HISTORY
+05  CURRENT LANDSCAPE
+06  CURRENT NEED
+07  PRIORITIES (STUDENTS & AIs)
+08  COORDINATED EFFORTS
+09  ASCII DIAGRAMS
+10  WORKSHEETS
+
+-- SOFTKITTY (SPACETIME v3.0alpha) --------------------------
+11  SHORT HISTORY
+12  CURRENT LANDSCAPE
+13  CURRENT NEED
+14  PRIORITIES (STUDENTS & AIs)
+15  COORDINATED EFFORTS
+16  ASCII DIAGRAMS
+17  WORKSHEETS
+
+-- TRIADIC SPACETIME BRIDGE --------------------------------
+18  v2 → v3 → RTT/3 LEARNING PATH
+19  COMBINED DIAGRAMS
+
+-- APPENDICES ----------------------------------------------
+20  TRIAD EXPLORER PROMPTS
+21  GLOSSARY
+22  POSTER
+23  CREDITS
+
+============================================================
+```
+
+---
+
+# 🟪 **4. “BOXED SET” SLIPCOVER ASCII ART**  
+### *This is the outer box art for the combined manuals*
+
+```
+============================================================
+||                                                        ||
+||      TRIADICFRAMEWORKS — SPACETIME BOXED SET          ||
+||                                                        ||
+||   +-----------------------------------------------+    ||
+||   |   MUDPUPPY (v2.0beta) — DIMENSIONAL ENGINE    |    ||
+||   +-----------------------------------------------+    ||
+||                                                        ||
+||   +-----------------------------------------------+    ||
+||   |   SOFTKITTY (v3.0alpha) — RESONANCE ENGINE    |    ||
+||   +-----------------------------------------------+    ||
+||                                                        ||
+||   Includes:                                            ||
+||     • User Manuals                                     ||
+||     • Worksheets                                       ||
+||     • ASCII Diagrams                                   ||
+||     • Triad Explorer Prompts                           ||
+||     • Learning Path (v2 → v3 → RTT/3)                  ||
+||     • Fold‑Out Poster                                  ||
+||                                                        ||
+============================================================
+```
+
+---
+
+# 🟫 **5. COMBINED TRIADIC SPACETIME POSTER (ASCII)**  
+### *This is the fold‑out poster that would ship in the box*
+
+```
+============================================================
+                TRIADIC SPACETIME — OVERVIEW POSTER
+============================================================
+
+MUDPUPPY (v2.0beta) — D‑SERIES
+------------------------------
+D1  Entry Regime
+D2  Transition Layer
+D3  Coherence Layer
+D4  Harmonic Apex
+
+        [D1] → [D2] → [D3] → [D4]
+           ^                     |
+           |---------------------|
+
+SOFTKITTY (v3.0alpha) — T‑SERIES
+-------------------------------
+T1  Entry Resonance
+T2  Harmonic Balance
+T3  Resonance Bloom
+
+        (T1) → (T2) → (T3)
+           ^             |
+           |-------------|
+
+RTT/3 — FULL TRIADIC SPACETIME
+------------------------------
+Combines:
+- Dimensional Regimes (D‑Series)
+- Resonance Triads (T‑Series)
+- Triadic Time Operators
+- Nested Harmonic Structure
+
+THE BRIDGE
+----------
+Mudpuppy → SoftKitty → RTT/3
+
+STRUCTURE → RESONANCE → FULL TRIADIC SPACETIME
+
+============================================================
+```
+
+---
+
