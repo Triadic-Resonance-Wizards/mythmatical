@@ -2,6 +2,8 @@
 
 - [`SoftKitty_module.json`](https://raw.githubusercontent.com/Triadic-Resonance-Wizards/mythmatical/refs/heads/main/SoftKitty/SoftKitty_module.json) — Agentic module schema role assignments
 
+<img width="402" height="566" alt="SoftKitty" src="https://github.com/user-attachments/assets/6cfb2b30-a96b-488d-8971-02bd1bc5b4a5" />
+
 ### Friendly Triadic Substrate (RTT-Equivalent, Softened Terminology)
 
 SoftKitty is the **gentle introduction** to full triadic substrate physics.  
