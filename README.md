@@ -2,6 +2,8 @@
 📍 *Paste into:*  
 `https://github.com/Triadic-Resonance-Wizards/mythmatical/blob/main/README.md`
 
+- [ /docsbook.io ](https://triadic-resonance-wizards.docsbook.io/mythmatical/)
+
 ---
 
 <img width="402" height="566" alt="SoftKitty" src="https://github.com/user-attachments/assets/6cfb2b30-a96b-488d-8971-02bd1bc5b4a5" />
