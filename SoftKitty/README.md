@@ -1,6 +1,7 @@
 # 🐱 SoftKitty — Spacetime v3.0alpha  
 
 - [`SoftKitty_module.json`](https://raw.githubusercontent.com/Triadic-Resonance-Wizards/mythmatical/refs/heads/main/SoftKitty/SoftKitty_module.json) — Agentic module schema role assignments
+- 📍 [ /docsbook.io/ ](https://triadic-resonance-wizards.docsbook.io/mythmatical/)
 
 <img width="402" height="566" alt="SoftKitty" src="https://github.com/user-attachments/assets/6cfb2b30-a96b-488d-8971-02bd1bc5b4a5" />
 
