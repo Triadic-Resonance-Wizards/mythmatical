@@ -1,8 +1,6 @@
 # 🐈 SoftKitty — Spacetime v3.0alpha  
-📍 *Paste into:*  
-`https://github.com/Triadic-Resonance-Wizards/mythmatical/blob/main/README.md`
 
-- [ /docsbook.io ](https://triadic-resonance-wizards.docsbook.io/mythmatical/)
+📍 [ /docsbook.io ](https://triadic-resonance-wizards.docsbook.io/mythmatical/)
 
 ---
 
